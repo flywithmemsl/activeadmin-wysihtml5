@@ -135,3 +135,9 @@ table {
 table, td, th {
   border: 1px solid #99a2aa;
 }
+
+
+img {
+  max-width: 300px;  
+  
+}
