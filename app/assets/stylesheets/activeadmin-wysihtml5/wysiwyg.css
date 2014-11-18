@@ -141,3 +141,10 @@ img {
   max-width: 300px;  
   
 }
+
+.wysihtml5-editor img {
+  max-width: 300px
+}
+
+
+
